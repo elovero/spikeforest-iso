@@ -1,12 +1,12 @@
 # SpikeForest Iso
 
-<i>Benchmarking of spike sorting algorithms. Seeing the spike forest for the trees.</i>
+🌲 <i>Benchmarking of spike sorting algorithms. Seeing the spike forest for the trees.</i> 🌲
 
 ## Getting Started
 
 ### 1. Get the latest version
 
-You can start by cloning the latest version of SpikeForest Iso on your
+Start by cloning the latest version of SpikeForest Iso on your
 local machine by running:
 
 ```shell
@@ -61,7 +61,7 @@ This site was bootstrapped with [React Starter Kit](https://www.reactstarterkit.
 * Alex Barnett, Leslie Greengard, James Jun - [Center for Computational Mathematics, Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/)
 * Lenny - [Canine](https://www.instagram.com/lillenlen/)
 
-### Related Projects
+### Related Projects:
 
 * [kbucket](https://github.com/magland/kbclient)
 * [SpikeForest](https://github.com/magland/spikeforest)
@@ -73,13 +73,12 @@ This site was bootstrapped with [React Starter Kit](https://www.reactstarterkit.
 
 ## License
 
-This source code is licensed under the MIT license found in the [LICENSE.txt]((docs/LICENSE.txt)
+This source code is licensed under the MIT license found in the [LICENSE.txt](./docs/LICENSE.txt)
 file. The documentation to the project is licensed under the
 [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license.
 
 ## Contributors
 
-### Made with ♥ by:
+Liz Lovero ([@elovero](https://github.com/elovero))
 
-* Liz Lovero ([@elovero](https://github.com/elovero))
-* Jeremy Magland ([@magland](https://github.com/magland)
+Jeremy Magland ([@magland](https://github.com/magland))
