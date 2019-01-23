@@ -50,8 +50,6 @@ $ yarn start -- --release
 
 _NOTE: double dashes are required_
 
----
-
 ## Acknowledgements
 
 This site was bootstrapped with [React Starter Kit](https://www.reactstarterkit.com).
@@ -68,8 +66,6 @@ This site was bootstrapped with [React Starter Kit](https://www.reactstarterkit.
 * [Spike Collab](https://github.com/magland/spike-collab)
 * [SpikeForest Widgets](https://github.com/magland/spikeforestwidgets)
 * [Pairio](https://github.com/magland/pairio)
-
----
 
 ## License
 
